@@ -2,16 +2,16 @@
 
 ## Screenshots
 
-![Screenshot](https://github.com/superdev2end/NFTImageLoader4Unity/blob/main/Screenshot_1.png?raw=true)
+![Screenshot](https://github.com/superdevpp/NFTImageLoader4Unity/blob/main/Screenshot_1.png?raw=true)
 
-![Screenshot](https://github.com/superdev2end/NFTImageLoader4Unity/blob/main/Screenshot_2.png?raw=true)
+![Screenshot](https://github.com/superdevpp/NFTImageLoader4Unity/blob/main/Screenshot_2.png?raw=true)
 
 ## Edit chain, network, contract's address and token's id
 ``` c#
     //The chain to interact with
     private string chain = "ethereum";
     //The network to interact with
-    private string network = "goerli";
+    private string network = "goerli";superdevpp
     //Contract to interact with
     private string contract = "0xd5b3d473c2379f471011e20edf2bd40c66158b97";
     //Token ID to pull from contract
@@ -86,4 +86,4 @@
 	https://static.pengolincoin.xyz/arts/images/0
 ```
 
-Email [superdev2end@gmail.com](mailto:superdev2end@gmail.com)
+Email [superdevpp@gmail.com](mailto:superdevpp@gmail.com)
